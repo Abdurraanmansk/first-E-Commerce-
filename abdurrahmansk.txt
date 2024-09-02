@@ -1,0 +1,33 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title> list of Html </html>
+</head>
+<body>
+<h3> E Commerce Website </h3>
+
+<!--
+List in html
+1. unordered list 
+<ul>
+
+-->
+<h5>
+
+<li>MObile</>
+<li>allu<lI/>
+<li>samosa<lI/>
+<li>kajoor<lI/>
+<li>batter<lI/>
+
+</h5>
+
+</ul>
+
+
+
+
+
+
+</body>
+</html>
